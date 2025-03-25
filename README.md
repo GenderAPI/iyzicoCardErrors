@@ -1,4 +1,4 @@
-# 🌍 Iyzico Error Message Translations
+# 🌍 Iyzico Hata Mesajıları Çevirileri
 
 Bu depo, **Iyzico ödeme aracısına** ait kredi kartı hata mesajlarının çok dilli çevirilerini içermektedir. Tüm hata mesajları, kullanıcılara doğru ve anlaşılır şekilde gösterilmesi amacıyla profesyonel bir biçimde çevrilmiştir.
 
