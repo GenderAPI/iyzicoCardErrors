@@ -10,56 +10,57 @@ Tüm çeviriler **OpenAI ChatGPT 4o** modeli kullanılarak yapılmıştır.
 
 Aşağıdaki tüm diller için çeviriler yapılmış ve `json` dosyaları halinde sunulmuştur:
 
-| ISO Kodu | Dil             |
-|----------|------------------|
-| ar       | Arabic           |
-| bg       | Bulgarian        |
-| bn       | Bengali          |
-| ca       | Catalan          |
-| cs       | Czech            |
-| da       | Danish           |
-| de       | German           |
-| el       | Greek            |
-| en       | English          |
-| es-419   | Spanish (LatAm)  |
-| et       | Estonian         |
-| fa       | Persian (Farsi)  |
-| fi       | Finnish          |
-| fil      | Filipino          |
-| fr       | French           |
-| gu       | Gujarati         |
-| he       | Hebrew           |
-| hi       | Hindi            |
-| hr       | Croatian         |
-| hu       | Hungarian        |
-| id       | Indonesian       |
-| it       | Italian          |
-| ja       | Japanese         |
-| kn       | Kannada          |
-| ko       | Korean           |
-| lt       | Lithuanian       |
-| lv       | Latvian          |
-| ml       | Malayalam        |
-| mr       | Marathi          |
-| ms       | Malay            |
-| nl       | Dutch            |
-| no       | Norwegian        |
-| pl       | Polish           |
-| pt-br    | Portuguese (BR)  |
-| ro       | Romanian         |
-| ru       | Russian          |
-| sk       | Slovak           |
-| sl       | Slovenian        |
-| sr       | Serbian          |
-| sv       | Swedish          |
-| sw       | Swahili          |
-| ta       | Tamil            |
-| te       | Telugu           |
-| th       | Thai             |
-| tr       | Turkish          |
-| uk       | Ukrainian        |
-| vi       | Vietnamese       |
-| zh-cn    | Chinese (Simplified) |
+| ISO Kodu | Dil Adı               |
+|----------|------------------------|
+| ar       | Arapça                 |
+| bg       | Bulgarca               |
+| bn       | Bengalce               |
+| ca       | Katalanca              |
+| cs       | Çekçe                  |
+| da       | Danca                  |
+| de       | Almanca                |
+| el       | Yunanca                |
+| en       | İngilizce              |
+| es-419   | İspanyolca (Latin Amerika) |
+| et       | Estonca                |
+| fa       | Farsça (İran)          |
+| fi       | Fince                  |
+| fil      | Filipince              |
+| fr       | Fransızca              |
+| gu       | Gucaratça              |
+| he       | İbranice               |
+| hi       | Hintçe                 |
+| hr       | Hırvatça               |
+| hu       | Macarca                |
+| id       | Endonezyaca            |
+| it       | İtalyanca              |
+| ja       | Japonca                |
+| kn       | Kannadaca              |
+| ko       | Korece                 |
+| lt       | Litvanca               |
+| lv       | Letonca                |
+| ml       | Malayamca              |
+| mr       | Marathice              |
+| ms       | Malayca                |
+| nl       | Hollandaca             |
+| no       | Norveççe               |
+| pl       | Lehçe (Leh dili)       |
+| pt-br    | Portekizce (Brezilya)  |
+| ro       | Romence                |
+| ru       | Rusça                  |
+| sk       | Slovakça               |
+| sl       | Slovence               |
+| sr       | Sırpça                 |
+| sv       | İsveççe                |
+| sw       | Svahili                |
+| ta       | Tamilce                |
+| te       | Teluguca               |
+| th       | Tayca                  |
+| tr       | Türkçe                 |
+| uk       | Ukraynaca              |
+| vi       | Vietnamca              |
+| zh-cn    | Çince (Basitleştirilmiş) |
+
 
 ## 📁 Dosya Yapısı
 
