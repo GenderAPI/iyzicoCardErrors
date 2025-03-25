@@ -82,7 +82,7 @@ Bu proje açık kaynaklıdır. Dilerseniz kendi projelerinizde özgürce kullana
 
 Yeni diller eklemek veya düzeltmelerde bulunmak isterseniz, PR göndermekten çekinmeyin!
 
-REF: https://docs.iyzico.com/en/add-ons/error-codes
+REF: https://docs.iyzico.com/en/add-ons/error-codes ve https://docs.iyzico.com/en/add-ons/error-codes/bank-error-codes
 
 ---
 
